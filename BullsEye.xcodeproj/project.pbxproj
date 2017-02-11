@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		672160CD1E4DA1CA00640E5C /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672160CC1E4DA1CA00640E5C /* AboutViewController.swift */; };
 		6729BB461E49A7AA0029E588 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6729BB451E49A7AA0029E588 /* AppDelegate.swift */; };
 		6729BB481E49A7AA0029E588 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6729BB471E49A7AA0029E588 /* ViewController.swift */; };
 		6729BB4B1E49A7AA0029E588 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6729BB491E49A7AA0029E588 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		672160CC1E4DA1CA00640E5C /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		6729BB421E49A7AA0029E588 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6729BB451E49A7AA0029E588 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6729BB471E49A7AA0029E588 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				6729BB451E49A7AA0029E588 /* AppDelegate.swift */,
 				6729BB471E49A7AA0029E588 /* ViewController.swift */,
 				6729BB491E49A7AA0029E588 /* Main.storyboard */,
+				672160CC1E4DA1CA00640E5C /* AboutViewController.swift */,
 				6729BB4C1E49A7AA0029E588 /* Assets.xcassets */,
 				6729BB4E1E49A7AA0029E588 /* LaunchScreen.storyboard */,
 				6729BB511E49A7AA0029E588 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				672160CD1E4DA1CA00640E5C /* AboutViewController.swift in Sources */,
 				6729BB481E49A7AA0029E588 /* ViewController.swift in Sources */,
 				6729BB461E49A7AA0029E588 /* AppDelegate.swift in Sources */,
 			);
@@ -297,6 +301,7 @@
 				6729BB561E49A7AA0029E588 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
